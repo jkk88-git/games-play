@@ -1,0 +1,23 @@
+{
+  "id": "./",
+  "name": "물길 드라이브 (Tide Drive)",
+  "short_name": "물길 드라이브",
+  "description": "바다 위 타일 길을 달려 결승선까지 가는 3D 달리기 게임 (Tide Drive)",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#08405f",
+  "background_color": "#08405f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
