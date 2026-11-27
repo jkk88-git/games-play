@@ -1,5 +1,5 @@
-// 물길 드라이브 서비스 워커 (빌드 때 자동 생성, 버전 0e7343821061)
-const CACHE = 'tide-drive-0e7343821061';
+// 물길 드라이브 서비스 워커 (빌드 때 자동 생성, 버전 24b9cae1dd6e)
+const CACHE = 'tide-drive-24b9cae1dd6e';
 const FILES = ["./","assets/index.js","index.html","icons/apple-touch-icon.png","icons/favicon-32.png","icons/icon-192.png","icons/icon-512.png","icons/icon-maskable-512.png","manifest.webmanifest"];
 
 self.addEventListener('install', (event) => {
